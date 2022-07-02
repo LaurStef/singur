@@ -1,0 +1,14 @@
+
+*{
+
+    font-size: 20px;
+}
+.tasks{
+    
+    display: flex;
+    margin: 5px;
+}
+
+.tasks2{
+    margin: 10px;
+}
